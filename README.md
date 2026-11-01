@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -39,22 +40,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -88,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -101,5 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Binary Search
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
