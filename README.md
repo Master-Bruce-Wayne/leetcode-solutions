@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3665-twisted-mirror-path-count](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Heap (Priority Queue)
 |  |
@@ -90,5 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
