@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0778-swim-in-rising-water](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Master-Bruce-Wayne/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
